@@ -1,0 +1,14 @@
+{
+  "owner": "fpai-forge-os",
+  "assignment_id": "assignment-0ecb6c56-3b29-4c56-b587-5a07dddc329a",
+  "attempt": 1,
+  "project": "Waller County Commissioner OS",
+  "repo": "/Users/thegoat/.fpai-forge-os/service-repositories/waller-county-commissioner-os-d56634ee",
+  "branch": "forge/waller-county-commissioner-os/0ecb6c56-3b2/attempt-1-cc505aabac",
+  "worktree": "/Users/thegoat/.fpai-forge-os/worktrees/waller-county-commissioner-os/0ecb6c56-3b2/attempt-1-cc505aabac",
+  "base_sha": "5a55c2fd62c9a32658328d50aa197ff70fda677d",
+  "schema_version": 2,
+  "runner_id": "tjs-macbook-pro-2-local-products",
+  "base_ref": "main",
+  "created_at": "2026-09-03T18:31:22Z"
+}
