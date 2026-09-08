@@ -1,0 +1,13 @@
+{
+  "name": "waller-county-commissioner-os",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Standalone MVP command center for Waller County Precinct 3 Commissioner operations.",
+  "scripts": {
+    "start": "node scripts/start.mjs",
+    "serve": "npm run build && node server.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs"
+  }
+}
